@@ -1,5 +1,8 @@
 ## Hi! 👋   My name is Alexandr 😉  Welcome 🤝
 
+About me
+👨‍💻 I learn Java at https://job4j.ru/
+
 <!--
 **AlexandrBannikov/AlexandrBannikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
