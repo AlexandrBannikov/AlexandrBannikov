@@ -1,4 +1,4 @@
-## Hi! 👋  My name is Alexandr 👋 Welcome 🤝
+## Hi! 👋   My name is Alexandr 😉  Welcome 🤝
 
 <!--
 **AlexandrBannikov/AlexandrBannikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
